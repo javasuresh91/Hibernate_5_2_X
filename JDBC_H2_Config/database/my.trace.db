@@ -1,0 +1,6 @@
+2018-03-22 13:50:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "DEMO" not found; SQL statement:
+SELECT * FROM DEMO [42102-197]
+2018-03-22 13:51:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "DEMO" not found; SQL statement:
+SELECT * FROM DEMO [42102-197]
